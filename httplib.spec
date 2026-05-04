@@ -2,7 +2,7 @@
 %define devname %mklibname httplib -d
 
 Name:		httplib
-Version:	0.42.0
+Version:	0.43.3
 Release:	1
 Source0:	https://github.com/yhirose/cpp-httplib/archive/refs/tags/v%{version}.tar.gz
 Summary:	Simple C++ HTTP(S) 1.1 Client/Server library
